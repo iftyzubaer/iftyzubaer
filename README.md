@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iftyzubaer
 - 👀 I’m interested in Website devlopment and designing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript Deeply
 - 💞️ I’m looking to collaborate on Website building
 - 📫 How to reach me ...
 
