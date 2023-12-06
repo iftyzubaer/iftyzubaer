@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-- 👨‍💻 All of my projects are available at [https://iftyzubaer.github.io/site](https://iftyzubaer.github.io/site)<br><br>
-- 📫 How to reach me **iftyzubaer1304@gmail.com**<br><br>
+- 👨‍💻 All of my projects are available at [https://iftyzubaer.github.io/site](https://iftyzubaer.github.io/site)<br>
+- 📫 How to reach me **iftyzubaer1304@gmail.com**<br>
 - ⚡ Fun fact **I relate myself with Chandler Bing most.**
 
 
@@ -15,8 +15,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iftyzubaer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iftyzubaer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftyzubaer&show_icons=true&locale=en" alt="iftyzubaer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftyzubaer&" alt="iftyzubaer" /></p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iftyzubaer&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftyzubaer" alt="iftyzubaer" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
