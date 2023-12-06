@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ifty Zubaer</h1>
 <h3 align="center">A higher secondary student who is a passionate Web developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://iftyzubaer.github.io/site](https://iftyzubaer.github.io/site)<br>
+- 👨‍💻 Personal portfolio [https://iftyzubaer.github.io/site](https://iftyzubaer.github.io/site)<br>
 - 📫 How to reach me **iftyzubaer1304@gmail.com**<br>
 - ⚡ Fun fact **I relate myself with Chandler Bing most.**
 
